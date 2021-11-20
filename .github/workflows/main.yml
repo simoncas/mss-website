@@ -29,5 +29,5 @@ jobs:
           server: monsapinsuisse.ch
           username: 84869_userftp
           password: ${{ secrets.ftp_password }}
-          local-dir: .
+          local-dir: ./
 
